@@ -23,3 +23,20 @@ Faça isso:
         // utilizamos o II para OU
     }
 ```
+
+
+
+
+    if (expressao) {
+       if (expressao) {
+
+       } else {
+        
+       }
+          
+    } else {
+    
+        if (expressao) {
+
+        }
+    }
